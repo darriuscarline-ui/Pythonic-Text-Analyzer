@@ -48,12 +48,16 @@ analyze_text() - coordinates the different functions.
 
 This is breaking the program into smaller functions makes it easier to read, test, maintain, and reuse.
 
+#Video
+[Watch the project demonstration] (https://www.loom.com/share/e0c7b8c256a64289969c975b2aab0ba3)
+
 The program will display:
 
 The total number of words.
 The number of unique words.
 The five most frequently used words.
 The total number of words longer than three characters.
+
 # Pythonic-Text-Analyzer
 
 from collections import Counter
